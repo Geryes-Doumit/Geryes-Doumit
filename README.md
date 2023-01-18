@@ -1,6 +1,9 @@
-<h1 align="left">Hi 👋, I'm Geryes</h1>
+<h1 align="left">Hi 👋, I'm Geryes,<br> <p align="left">a developper in the making !</p> </h1>
 
-- 🔭 I’m currently working on [my ChatRooms peoject](https://github.com/Marc-Proux/chatRoom)
+
+<h3 align="left">Current Info:</h3>
+
+- 🔭 My latest project: [ChatRooms](https://github.com/Marc-Proux/chatRoom)
 
 - 🌱 I’m currently learning **Java**
 
