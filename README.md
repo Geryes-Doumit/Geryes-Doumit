@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything related to my projects**
 
-- 📫 How to reach me **geryes.doumet@gmail.com**
+- 📫 How to reach me: **geryes.doumet@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
