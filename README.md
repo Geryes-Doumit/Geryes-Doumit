@@ -5,7 +5,7 @@
 
 - 🔭 My latest project: [ChatRooms](https://github.com/Marc-Proux/chatRoom)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently working on a **Java** project
 
 - 💬 Ask me about **anything related to my projects**
 
