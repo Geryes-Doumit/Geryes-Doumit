@@ -25,4 +25,4 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 
 <h3 align="left">GitHub Stats:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geryes-Doumit&include_all_commits=true&count_private=true&theme=tokyonight&langs_count=8&hide_border=true&layout=compact)](https://github.com/Marc-Proux/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geryes-Doumit&include_all_commits=true&count_private=true&theme=tokyonight&langs_count=8&hide_border=true&layout=compact)](https://github.com/Geryes-Doumit/github-readme-stats)<br />
