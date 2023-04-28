@@ -25,8 +25,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 
 <h3 align="left">My latest projects:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=chatRooms&show_icons=true&theme=transparent&locale=en&layout=compact" alt="geryes-doumit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=Simplified-Abalone&show_icons=true&theme=transparent&locale=en&layout=compact" alt="geryes-doumit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=chatRooms&show_icons=true&theme=transparent&locale=en&layout=compact" alt="geryes-doumit" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=Simplified-Abalone&show_icons=true&theme=transparent&locale=en&layout=compact" alt="geryes-doumit" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=Python-Pong&show_icons=true&theme=transparent&locale=en&layout=compact" alt="geryes-doumit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=Python-Tic-Tac-Toe&show_icons=true&theme=transparent&locale=en&layout=compact" alt="geryes-doumit" /></p>
