@@ -24,6 +24,8 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 
+![](https://github-readme-stats.vercel.app/api?username=Geryes-Doumit&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 <!-- <h3 align="left">My latest projects:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=chatRooms&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="geryes-doumit" />  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geryes-doumit&repo=Simplified-Abalone&show_icons=true&theme=solarized-light&locale=en&layout=compact" alt="geryes-doumit" /></p>
 <br>
