@@ -3,7 +3,7 @@
 
 <h3 align="left">Current Info:</h3>
 
-- 🔭 My latest project: [ChatRooms](https://github.com/Marc-Proux/chatRoom)
+- 🔭 My latest project: [D-sync](https://github.com/Geryes-Doumit/d-sync)
 
 - 🌱 I’m currently working on a **Java** project
 
