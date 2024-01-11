@@ -5,7 +5,7 @@
 
 - 🔭 My latest project: [ENSI'COM](https://github.com/Geryes-Doumit/ENSI-COM)
 
-- 🌱 I’m currently working on getting my CS degree
+- 🌱 I’m currently working on getting my degree
 
 - 💬 Ask me about **anything related to my projects**
 
