@@ -3,7 +3,7 @@
 
 <h3 align="left">Current Info:</h3>
 
-- 🔭 My latest project: [ENSI'COM](https://github.com/Geryes-Doumit/ENSI-COM)
+- 🔭 My latest project: [Geryes-Bot](https://github.com/Geryes-Doumit/Python-discord-bot)
 
 - 🌱 I’m currently working on getting my degree
 
