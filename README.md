@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Geryes,<br> <p align="left">a developer in the making !</p> </h1>
 
 
-<h3 align="left">Current Info:</h3>
+### Current Info
 
 - 🔭 My latest project: [Geryes-Bot](https://github.com/Geryes-Doumit/Python-discord-bot)
 
@@ -12,18 +12,11 @@
 - 📫 How to reach me: **geryes.doumet@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br>
+### My skills
 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="django" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css,django,swift,kotlin,bash)](https://skillicons.dev) 
 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geryes-Doumit&layout=donut&hide=c&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Geryes-Doumit&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
