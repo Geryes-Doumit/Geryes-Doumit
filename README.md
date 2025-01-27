@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css,django,swift,kotlin,bash)](https://skillicons.dev) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geryes-Doumit&layout=donut&hide=c&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geryes-Doumit&layout=donut&hide=c,java,css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Geryes-Doumit&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
